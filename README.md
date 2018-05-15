@@ -19,3 +19,5 @@ In other words, our main question is this: What is the total number of significa
 2) http://www.telegraph.co.uk/men/thinking-man/why-are-so-many-celebrities-dying-in-2016/
 
 3) http://www.bbc.com/news/magazine-38329740
+
+### This was a final project done for the "Hands On Data Science" course at UC San Diego, in the Cognitive Science department. (COGS 108)
