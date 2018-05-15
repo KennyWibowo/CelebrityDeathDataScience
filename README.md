@@ -10,6 +10,8 @@ For our project, we will be examining the social media theory in particular. Sin
 
 In other words, our main question is this: What is the total number of significant celebrities that passed away in 2016, compared to other years? How has social media impacted our bias of noting these deaths? We propose that that although it may be true that a significant number of celebrities passed away in 2016, the introduction of modern media, especially through social mediums such as Facebook and Reddit, has caused a sense of “over sensationalization” that biased our judgement of how many celebrities passed away in 2016 compared to other years.
 
+### To check out our analysis and full results, go to `FinalProject.ipynb`
+
 ## References:
 
 1) https://www.snopes.com/2016/12/28/2016-the-deadliest-year-for-celebrities/
